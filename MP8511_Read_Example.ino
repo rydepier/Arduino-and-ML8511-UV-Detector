@@ -1,5 +1,5 @@
 /* 
- MP8511 UV Sensor Read Example
+ MP8511 UV Sensor Read Example 
  By: Nathan Seidle
  SparkFun Electronics
  Date: January 15th, 2014
